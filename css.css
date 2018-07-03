@@ -5,6 +5,7 @@
   border-bottom: 3px solid black;
   border-top: 3px solid black;
 
+
 }
 
 #row2{
@@ -26,12 +27,34 @@
   height: 500px;
 }
 
-.col{
-  width: 80%;
+.col-sm-2{
+  width: 100%;
   margin-left: 150px;
   margin-top: 50px;
   margin-right: 150px;
 }
+
+.col-sm-3{
+  width: 100%;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-right: 150px;
+}
+
+.col-sm-12{
+  width: 100%;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-right: 150px;
+}
+
+.col-sm-4{
+  width: 100%;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-right: 150px;
+}
+
 
 #colwork{
   margin-top: 100px;
