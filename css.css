@@ -98,7 +98,7 @@ footer{
 
 html,body{
   background-color: yellow;
-  overflow: auto;
+  overflow: scroll;
   animation-name: foot;
   animation-duration: 6s;
   animation-timing-function: linear;
