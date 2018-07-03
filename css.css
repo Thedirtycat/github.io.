@@ -1,10 +1,4 @@
 
-.container-fluid {
-    padding-right:0;
-    padding-left:0;
-    margin-right:auto;
-    margin-left:auto
- }
 
 #rowf{
   background-color: #f2f2f2;
@@ -26,6 +20,8 @@
   background-color: red;
   height: 200px;
 }
+
+
 
 #row4{
   background-color: #f2f2f2;
@@ -98,14 +94,14 @@ footer{
 }
 
 
-body{
+html,body{
   background-color: yellow;
   overflow: scroll;
   animation-name: foot;
   animation-duration: 6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-
+  width: 100%;
 }
 
 ul{
