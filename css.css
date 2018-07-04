@@ -28,6 +28,10 @@
   height: 500px;
 }
 
+.row{
+  width: auto;
+}
+
 .col{
   overflow: scroll;
 }
