@@ -26,7 +26,7 @@
 
 #row4{
   background-color: #f2f2f2;
-  height: 500px;
+  min-height: 500px;
 }
 
 
