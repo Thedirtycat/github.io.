@@ -1,4 +1,8 @@
 
+.row{
+  margin-right: 0px;
+}
+
 #rowf{
   background-color: #f2f2f2;
   height: 700px;
