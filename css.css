@@ -1,14 +1,11 @@
 
-.row{
-  margin-right: 0px;
-}
 
 #rowf{
   background-color: #f2f2f2;
   height: 700px;
   border-bottom: 3px solid black;
   border-top: 3px solid black;
-
+ margin-right: 30px;
 }
 
 #row2{
