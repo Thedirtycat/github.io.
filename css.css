@@ -1,5 +1,5 @@
 .row{
-  width:100%;
+  max-device-width:100%;
 }
 
 #rowf{
