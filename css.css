@@ -6,7 +6,7 @@
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   overflow: scroll;
-  margin-right: 15px;
+  margin-right: 5px;
 
 }
 
@@ -16,7 +16,7 @@
   color: #f2f2f2;
   border-bottom: 3px solid black;
   display: none;
-  margin-right: 15px;
+  margin-right: 5px;
 }
 
 #row3{
@@ -89,7 +89,7 @@ footer{
 
 html,body{
   background-color: yellow;
-  overflow: auto;
+  overflow: hidden;
   animation-name: foot;
   animation-duration: 6s;
   animation-timing-function: linear;
