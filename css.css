@@ -28,16 +28,13 @@
   height: 500px;
 }
 
-.row{
-  width: 1440px;
-}
 
 .col{
   overflow: scroll;
 }
 
 .col-{
-  width: 100%;
+
   margin-left: 0px;
   margin-top: 50px;
   margin-right: 150px;
