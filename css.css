@@ -27,33 +27,14 @@
   height: 500px;
 }
 
-.col-sm-2{
+.col-sm{
   width: 100%;
   margin-left: 150px;
   margin-top: 50px;
   margin-right: 150px;
 }
 
-.col-sm-3{
-  width: 100%;
-  margin-left: 150px;
-  margin-top: 50px;
-  margin-right: 150px;
-}
 
-.col-sm-12{
-  width: 100%;
-  margin-left: 150px;
-  margin-top: 50px;
-  margin-right: 150px;
-}
-
-.col-sm-4{
-  width: 100%;
-  margin-left: 150px;
-  margin-top: 50px;
-  margin-right: 150px;
-}
 
 
 #colwork{
