@@ -96,12 +96,12 @@ footer{
 
 html,body{
   background-color: yellow;
-  overflow: scroll;
+  overflow: hidden;
   animation-name: foot;
   animation-duration: 6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  
+
 }
 
 ul{
