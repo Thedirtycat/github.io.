@@ -1,6 +1,3 @@
-.row{
-  width:600px;
-}
 
 #rowf{
   background-color: #f2f2f2;
@@ -98,7 +95,7 @@ footer{
 
 html,body{
   background-color: yellow;
-  overflow: hidden;
+  overflow: auto;
   animation-name: foot;
   animation-duration: 6s;
   animation-timing-function: linear;
