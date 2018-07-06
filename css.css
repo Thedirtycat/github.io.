@@ -133,7 +133,25 @@ a{
 
 
 .navbar-nav{
-position:relative;
+position:sticky;
   left:25px;
+ border-left: 2px solid black;
+}
 
+.navbar-item{
+        text-align: center;
+        border-right: 2px solid black;
+        text-shadow: 2px 2px 5px black;
+        transition: 3s;
+
+}
+
+.navbar-item:hover{
+          background-color: black;
+
+}
+
+.navbar{
+        padding-top:0;
+        padding-bottom: 0;
 }
